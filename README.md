@@ -1,7 +1,8 @@
 # iOS:Passing Data Between ViewControllers 
 
-###code Sample is Objective-C and Swift using Protocols/Delegates
+###code sample is Objective-C and Swift using Protocols/Delegates
 
+***
 
 The code can be use under: 
 
