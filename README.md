@@ -2,6 +2,8 @@
 
 ###code sample is Objective-C and Swift using Protocols/Delegates
 
+Please let me know if you have any questions by leaving a comment below or on twitter [@luisemedr](https://twitter.com/luisemedr)
+
 ***
 
 The code can be use under: 
